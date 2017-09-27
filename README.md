@@ -1,4 +1,4 @@
-<!-- #address-book
+#address-book
 Javascript OO - Address Book
 
 #Description
@@ -8,4 +8,4 @@ This application is a demonstration of constructors and prototypes using JavaScr
 Install address-book by cloning this repository.
 
 #Technologies Used
-JavaScript and jQuery -->
+JavaScript and jQuery
